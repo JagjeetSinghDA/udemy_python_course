@@ -9,3 +9,5 @@ cleaned = ChaiUtils.clean_ingredients(raw)
 print(cleaned)
 
 # these are statuc objects and we can use them wiothout creating the object witht he class
+
+
